@@ -1,0 +1,484 @@
+BATERIAS MUNICIPIO POR MUNICIPIO
+
+Municipio: Canatlán (pan, distrito 3)
+Le Voy A Leer Unos Nombres, Para Cada Uno, ¿Podría Decirme Si Le Es Muy Conocido, Algo Conocido, Poco O Nada Conocido?
+[1=Muy Conocido; 2=Algo; 3=Poco; 4=Nada Conocido; 5=Ns/Nc]
+a José Rosas Aispuro
+b Alejandro González Yáñez
+c José Ramón Enríquez Herrera
+d Maribel Aguilera Cháirez (dgo03p)
+e Dora Elena González Tremillo (ocupante)
+f Vero González Olguín (Panc)
+g Angela Rojas Rivera (Morenac)
+h Yareli Ortiz Muñoz (Mc)
+
+Municipio: Canelas (Pan, distrito 1)
+Le Voy A Leer Unos Nombres, Para Cada Uno, ¿Podría Decirme Si Le Es Muy Conocido, Algo Conocido, Poco O Nada Conocido?
+[1=Muy Conocido; 2=Algo; 3=Poco; 4=Nada Conocido; 5=Ns/Nc]
+a José Rosas Aispuro
+b Alejandro González Yáñez
+c José Ramón Enríquez Herrera
+d Javier Castrellón Garza (dgo01p)
+e Juan Carlos Ruiz Díaz (ocupante)
+f Francisco Javier Cárdenas Gamboa (Pan, Ex2004)
+g Yazmín Arrieta Vizcarra (Morenac)
+h Yenny Cervantes Vizcarra (Pri Ex2016)
+
+Municipio: Coneto De Comonfort (Pd, distrito 3)
+Le Voy A Leer Unos Nombres, Para Cada Uno, ¿Podría Decirme Si Le Es Muy Conocido, Algo Conocido, Poco O Nada Conocido?
+[1=Muy Conocido; 2=Algo; 3=Poco; 4=Nada Conocido; 5=Ns/Nc]
+a José Rosas Aispuro
+b Alejandro González Yáñez
+c José Ramón Enríquez Herrera
+d Maribel Aguilera Cháirez (dgo03p)
+e Martín Pineda Acosta (ocupante)
+f Gerino Morales Arriola (Panc)
+g Coco Parra Hernández (Morenac)
+
+Municipio: Cuencamé (Pri, distrito 3)
+Le Voy A Leer Unos Nombres, Para Cada Uno, ¿Podría Decirme Si Le Es Muy Conocido, Algo Conocido, Poco O Nada Conocido?
+[1=Muy Conocido; 2=Algo; 3=Poco; 4=Nada Conocido; 5=Ns/Nc]
+a José Rosas Aispuro
+b Alejandro González Yáñez
+c José Ramón Enríquez Herrera
+d Maribel Aguilera Cháirez (dgo03p)
+e Luly Martínez Espinoza (ocupante)
+f Fabiola Bugarín Espinoza (Panc)
+h Elizabeth Sotelo Ochoa (Morenac)
+
+Municipio: Durango (Pan, distritos 1 y 4)
+Le Voy A Leer Unos Nombres, Para Cada Uno, ¿Podría Decirme Si Le Es Muy Conocido, Algo Conocido, Poco O Nada Conocido?
+[1=Muy Conocido; 2=Algo; 3=Poco; 4=Nada Conocido; 5=Ns/Nc]
+a José Rosas Aispuro
+b Alejandro González Yáñez
+c José Ramón Enríquez Herrera
+d Javier Castrellón Garza (dgo01p)
+e Gina Campuzano González (dgo04p)
+f Jorge Salum del Palacio (ocupante)
+g Toño Ochoa Rodríguez (Panc)
+h Martín Vivanco Lira (Mc)
+
+Municipio: General Simón Bolívar (Pan, distrito 3)
+Le Voy A Leer Unos Nombres, Para Cada Uno, ¿Podría Decirme Si Le Es Muy Conocido, Algo Conocido, Poco O Nada Conocido?
+[1=Muy Conocido; 2=Algo; 3=Poco; 4=Nada Conocido; 5=Ns/Nc]
+a José Rosas Aispuro
+b Alejandro González Yáñez
+c José Ramón Enríquez Herrera
+d Maribel Aguilera Cháirez (dgo03p)
+e Sergio Cerda Moreno (ocupante compite)
+f Miriam Tovar Alonso (Morenac)
+g Silvia Rangel Orona (Pri)
+
+Municipio: Gómez Palacio (Morena, distrito 2)
+Le Voy A Leer Unos Nombres, Para Cada Uno, ¿Podría Decirme Si Le Es Muy Conocido, Algo Conocido, Poco O Nada Conocido?
+[1=Muy Conocido; 2=Algo; 3=Poco; 4=Nada Conocido; 5=Ns/Nc]
+a José Rosas Aispuro
+b Alejandro González Yáñez
+c José Ramón Enríquez Herrera
+d Omar Castañeda González (dgo02p)
+e Alma Marina Vitela Rodríguez (ocupante)
+f Juana Leticia Herrera Ale (Panc)
+g Betzabé Martínez Arango (Morenac)
+h Gustavo Acosta El Gato (Mc)
+
+Municipio: Guadalupe Victoria (Pan, distrito 3)
+Le Voy A Leer Unos Nombres, Para Cada Uno, ¿Podría Decirme Si Le Es Muy Conocido, Algo Conocido, Poco O Nada Conocido?
+[1=Muy Conocido; 2=Algo; 3=Poco; 4=Nada Conocido; 5=Ns/Nc]
+a José Rosas Aispuro
+b Alejandro González Yáñez
+c José Ramón Enríquez Herrera
+d Maribel Aguilera Cháirez (dgo03p)
+e Agustin Sosa Ramirez (ocupante)
+f David Ramos Zepeda (Panc)
+g Gerardo Villarreal Solís (Morenac)
+h Jesús Marcial De la Cruz Muñoz (Mc)
+
+Municipio: Guanaceví (Pri, distrito 2)
+Le Voy A Leer Unos Nombres, Para Cada Uno, ¿Podría Decirme Si Le Es Muy Conocido, Algo Conocido, Poco O Nada Conocido?
+[1=Muy Conocido; 2=Algo; 3=Poco; 4=Nada Conocido; 5=Ns/Nc]
+a José Rosas Aispuro
+b Alejandro González Yáñez
+c José Ramón Enríquez Herrera
+d Omar Castañeda González (dgo02p)
+e Rogelio Ayala Arzola (ocupante)
+f Chacho Salazar Celis (Pri)
+g Marcela Rivera De la O (Morena)
+h Rosy Trujillo (Pan)
+
+Municipio: Hidalgo (Pt, distrito 2)
+Le Voy A Leer Unos Nombres, Para Cada Uno, ¿Podría Decirme Si Le Es Muy Conocido, Algo Conocido, Poco O Nada Conocido?
+[1=Muy Conocido; 2=Algo; 3=Poco; 4=Nada Conocido; 5=Ns/Nc]
+a José Rosas Aispuro
+b Alejandro González Yáñez
+c José Ramón Enríquez Herrera
+d Omar Castañeda González (dgo02p)
+e Dora Maria Bustamate Favela (ocupante)
+f Javier Martínez Trujillo (Pri)
+g Francisca Tagle Pérez (Morenac)
+h Lizeth Arreola Poblano (Pan)
+i Carlota Ramírez Jurado La Güera (Mc)
+j José Luis Covarrubias (Prd)
+
+Municipio: Indé (Pri, distrito 2)
+Le Voy A Leer Unos Nombres, Para Cada Uno, ¿Podría Decirme Si Le Es Muy Conocido, Algo Conocido, Poco O Nada Conocido?
+[1=Muy Conocido; 2=Algo; 3=Poco; 4=Nada Conocido; 5=Ns/Nc]
+a José Rosas Aispuro
+b Alejandro González Yáñez
+c José Ramón Enríquez Herrera
+d Omar Castañeda González (dgo02p)
+e Lorena Lucero Bustamante (ocupante)
+f Juan José Corral Miranda (Panc)
+g José Remedios Ochoa Martínez (Morenac)
+
+Municipio: Lerdo (Pri, distrito 3)
+Le Voy A Leer Unos Nombres, Para Cada Uno, ¿Podría Decirme Si Le Es Muy Conocido, Algo Conocido, Poco O Nada Conocido?
+[1=Muy Conocido; 2=Algo; 3=Poco; 4=Nada Conocido; 5=Ns/Nc]
+a José Rosas Aispuro
+b Alejandro González Yáñez
+c José Ramón Enríquez Herrera
+d Maribel Aguilera Cháirez (dgo03p)
+e Homero Martínez Cabrera (ocupante compite)
+f Maestra Tere González Alvarado (Morenac)
+g Ramón Samir Rivera González (Mc)
+
+Municipio: Mapimí (Pri, distrito 2)
+Le Voy A Leer Unos Nombres, Para Cada Uno, ¿Podría Decirme Si Le Es Muy Conocido, Algo Conocido, Poco O Nada Conocido?
+[1=Muy Conocido; 2=Algo; 3=Poco; 4=Nada Conocido; 5=Ns/Nc]
+a José Rosas Aispuro
+b Alejandro González Yáñez
+c José Ramón Enríquez Herrera
+d Omar Castañeda González (dgo02p)
+e Marisol Peña Rodríguez (ocupante)
+f Martha Eugenia Castro González (Panc)
+g Fernando Reverte Granados (Morenac)
+h Martín Flores Varela (Mc)
+
+Municipio: Mezquital (Pri, distrito 1)
+Le Voy A Leer Unos Nombres, Para Cada Uno, ¿Podría Decirme Si Le Es Muy Conocido, Algo Conocido, Poco O Nada Conocido?
+[1=Muy Conocido; 2=Algo; 3=Poco; 4=Nada Conocido; 5=Ns/Nc]
+a José Rosas Aispuro
+b Alejandro González Yáñez
+c José Ramón Enríquez Herrera
+d Javier Castrellón Garza (dgo01p)
+e José Osvaldo Santillán Gómez (ocupante)
+f Iván Soto Mendía (Pri)
+g Profe Santos Galindo Mendoza (Morenac)
+h María Guadalupe García Gómez (Pan)
+i Francisco De la Rosa Mendoza (Mc)
+j Florina Mendoza Soto (Prd)
+
+Municipio: Nazas (Pan, distrito 3)
+Le Voy A Leer Unos Nombres, Para Cada Uno, ¿Podría Decirme Si Le Es Muy Conocido, Algo Conocido, Poco O Nada Conocido?
+[1=Muy Conocido; 2=Algo; 3=Poco; 4=Nada Conocido; 5=Ns/Nc]
+a José Rosas Aispuro
+b Alejandro González Yáñez
+c José Ramón Enríquez Herrera
+d Maribel Aguilera Cháirez (dgo03p)
+e Coco Palacio (ocupante compite)
+f Diana González Torres (Morenac)
+
+Municipio: Nombre De Dios (Pan, distrito 3)
+Le Voy A Leer Unos Nombres, Para Cada Uno, ¿Podría Decirme Si Le Es Muy Conocido, Algo Conocido, Poco O Nada Conocido?
+[1=Muy Conocido; 2=Algo; 3=Poco; 4=Nada Conocido; 5=Ns/Nc]
+a José Rosas Aispuro
+b Alejandro González Yáñez
+c José Ramón Enríquez Herrera
+d Maribel Aguilera Cháirez (dgo03p)
+e Daniel Sifuentes Salas (ocupante)
+f Nancy Vásquez Luna (Panc)
+g Juan Solís Ríos (Morenac)
+h Elia María Herrera Lizalde (Mc)
+
+Municipio: Nuevo Ideal (Pan, distrito 3)
+Le Voy A Leer Unos Nombres, Para Cada Uno, ¿Podría Decirme Si Le Es Muy Conocido, Algo Conocido, Poco O Nada Conocido?
+[1=Muy Conocido; 2=Algo; 3=Poco; 4=Nada Conocido; 5=Ns/Nc]
+a José Rosas Aispuro
+b Alejandro González Yáñez
+c José Ramón Enríquez Herrera
+d Maribel Aguilera Cháirez (dgo03p)
+e Gerardo Galaviz Martínez (ocupante)
+f Miguel Devora Galindo (Pan)
+g Luis García Márquez (Morenac)
+h Omar Nevárez Velázquez (Pri)
+i Sonia Elena Robles Campa (Prd)
+
+Municipio: Ocampo (Pri, distrito 2)
+Le Voy A Leer Unos Nombres, Para Cada Uno, ¿Podría Decirme Si Le Es Muy Conocido, Algo Conocido, Poco O Nada Conocido?
+[1=Muy Conocido; 2=Algo; 3=Poco; 4=Nada Conocido; 5=Ns/Nc]
+a José Rosas Aispuro
+b Alejandro González Yáñez
+c José Ramón Enríquez Herrera
+d Omar Castañeda González (dgo02p)
+e Socorro García Armendáriz (ocupante)
+f Maricela Barraza García (Panc)
+g José Herrera Leos (Morenac)
+h Marcela García Casas Agüeda (Mc)
+
+Municipio: El Oro (Pan, distrito 2)
+Le Voy A Leer Unos Nombres, Para Cada Uno, ¿Podría Decirme Si Le Es Muy Conocido, Algo Conocido, Poco O Nada Conocido?
+[1=Muy Conocido; 2=Algo; 3=Poco; 4=Nada Conocido; 5=Ns/Nc]
+a José Rosas Aispuro
+b Alejandro González Yáñez
+c José Ramón Enríquez Herrera
+d Omar Castañeda González (dgo02p)
+e Ismael Mata Alvarado (ocupante)
+f Dr Octavio Carrete (Panc)
+g Armando Gutiérrez Sillas (Morenac)
+
+Municipio: Otáez (Morena, distrito 1)
+Le Voy A Leer Unos Nombres, Para Cada Uno, ¿Podría Decirme Si Le Es Muy Conocido, Algo Conocido, Poco O Nada Conocido?
+[1=Muy Conocido; 2=Algo; 3=Poco; 4=Nada Conocido; 5=Ns/Nc]
+a José Rosas Aispuro
+b Alejandro González Yáñez
+c José Ramón Enríquez Herrera
+d Javier Castrellón Garza (dgo01p)
+e Héctor Herrera Núñez (ocupante compite)
+f Ismael Mejorado Bretado (Pan Ex2016)
+g María del Rocío Paniagua Díaz (Pri)
+h Briseida Yoselín Núñez Núñez (Prd)
+
+Municipio: Pánuco de Coronado (Pri, distrito 3)
+Le Voy A Leer Unos Nombres, Para Cada Uno, ¿Podría Decirme Si Le Es Muy Conocido, Algo Conocido, Poco O Nada Conocido?
+[1=Muy Conocido; 2=Algo; 3=Poco; 4=Nada Conocido; 5=Ns/Nc]
+a José Rosas Aispuro
+b Alejandro González Yáñez
+c José Ramón Enríquez Herrera
+d Maribel Aguilera Cháirez (dgo03p)
+e Edmundo Mauricio Gándara González (ocupante)
+f Gabriela García Breceda (Panc)
+g Rogelio Flores El Chino (Morenac)
+h Indira Yadira Hernández Sariñana (Mc)
+
+Municipio: Peñón Blanco (Pri, distrito 3)
+Le Voy A Leer Unos Nombres, Para Cada Uno, ¿Podría Decirme Si Le Es Muy Conocido, Algo Conocido, Poco O Nada Conocido?
+[1=Muy Conocido; 2=Algo; 3=Poco; 4=Nada Conocido; 5=Ns/Nc]
+a José Rosas Aispuro
+b Alejandro González Yáñez
+c José Ramón Enríquez Herrera
+d Maribel Aguilera Cháirez (dgo03p)
+e José Naum Amaya López (ocupante)
+f Rita Esther Lozano Reyes (Panc)
+g Dra Diana Femat Ochoa (Morenac)
+h Silvano Venegas Antuna (Mc)
+
+Municipio: Poanas (Mc, distrito 3)
+Le Voy A Leer Unos Nombres, Para Cada Uno, ¿Podría Decirme Si Le Es Muy Conocido, Algo Conocido, Poco O Nada Conocido?
+[1=Muy Conocido; 2=Algo; 3=Poco; 4=Nada Conocido; 5=Ns/Nc]
+a José Rosas Aispuro
+b Alejandro González Yáñez
+c José Ramón Enríquez Herrera
+d Maribel Aguilera Cháirez (dgo03p)
+e José Luis Valdez Valenciano (ocupante)
+f La Maestra Araceli Aispuro (Panc)
+g Armando García Meza (Morenac)
+h Claudia Itzel Domínguez Valdez (Mc)
+
+Municipio: Pueblo Nuevo (Pri, distrito 1)
+Le Voy A Leer Unos Nombres, Para Cada Uno, ¿Podría Decirme Si Le Es Muy Conocido, Algo Conocido, Poco O Nada Conocido?
+[1=Muy Conocido; 2=Algo; 3=Poco; 4=Nada Conocido; 5=Ns/Nc]
+a José Rosas Aispuro
+b Alejandro González Yáñez
+c José Ramón Enríquez Herrera
+d Javier Castrellón Garza (dgo01p)
+e Adrián Chaparro Gándara (ocupante compite)
+f Nancy Flores Ornelas (Morenac)
+g Abner Borja (Pan)
+h Lucina Ríos Gutiérrez (Mc)
+i Irasema Silva Rodríguez (Prd)
+
+Municipio: Rodeo (Pan, distrito 3)
+Le Voy A Leer Unos Nombres, Para Cada Uno, ¿Podría Decirme Si Le Es Muy Conocido, Algo Conocido, Poco O Nada Conocido?
+[1=Muy Conocido; 2=Algo; 3=Poco; 4=Nada Conocido; 5=Ns/Nc]
+a José Rosas Aispuro
+b Alejandro González Yáñez
+c José Ramón Enríquez Herrera
+d Maribel Aguilera Cháirez (dgo03p)
+e Mary Amaya Parra (ocupante compite)
+f Mtra Maira Alvarez Aldaco (Morenac)
+g Lalo Estrada Meraz (Mc)
+
+Municipio: San Bernardo (Pan, distrito 2)
+Le Voy A Leer Unos Nombres, Para Cada Uno, ¿Podría Decirme Si Le Es Muy Conocido, Algo Conocido, Poco O Nada Conocido?
+[1=Muy Conocido; 2=Algo; 3=Poco; 4=Nada Conocido; 5=Ns/Nc]
+a José Rosas Aispuro
+b Alejandro González Yáñez
+c José Ramón Enríquez Herrera
+d Omar Castañeda González (dgo02p)
+e Alejandro Muñoz Hernández (ocupante)
+f Martha Catalina Soto Anaya (Pan)
+g Manuel Rodríguez Aguirre (Morenac)
+h María Rutila Villa Lerma (Pri)
+i Jesus Ariel Cabriales Méndez (Prd)
+
+Municipio: San Dimas (Pan, distrito 1)
+Le Voy A Leer Unos Nombres, Para Cada Uno, ¿Podría Decirme Si Le Es Muy Conocido, Algo Conocido, Poco O Nada Conocido?
+[1=Muy Conocido; 2=Algo; 3=Poco; 4=Nada Conocido; 5=Ns/Nc]
+a José Rosas Aispuro
+b Alejandro González Yáñez
+c José Ramón Enríquez Herrera
+d Javier Castrellón Garza (dgo01p)
+e Alejandro Gurrola 'AG' (ocupante compite)
+f Armando Barrón Alvarado (Morenac)
+g Martha Elena Morales Salcido (Mc)
+
+Municipio: San Juan de Guadalupe (Pri, distrito 3)
+Le Voy A Leer Unos Nombres, Para Cada Uno, ¿Podría Decirme Si Le Es Muy Conocido, Algo Conocido, Poco O Nada Conocido?
+[1=Muy Conocido; 2=Algo; 3=Poco; 4=Nada Conocido; 5=Ns/Nc]
+a José Rosas Aispuro
+b Alejandro González Yáñez
+c José Ramón Enríquez Herrera
+d Maribel Aguilera Cháirez (dgo03p)
+e José Luis Acosta Aldaco (ocupante)
+f Ana Faviola Morales Wever (Pri)
+g Luz Castañeda Uribe (Morenac)
+h Nanci Magali Esquivel Hernández (Pan)
+i Noé Neri Muñoz (Mc)
+j Marco Antonio Quiroz Lomas (Prd)
+
+Municipio: San Juan del Río (Pri, distrito 3)
+Le Voy A Leer Unos Nombres, Para Cada Uno, ¿Podría Decirme Si Le Es Muy Conocido, Algo Conocido, Poco O Nada Conocido?
+[1=Muy Conocido; 2=Algo; 3=Poco; 4=Nada Conocido; 5=Ns/Nc]
+a José Rosas Aispuro
+b Alejandro González Yáñez
+c José Ramón Enríquez Herrera
+d Maribel Aguilera Cháirez (dgo03p)
+e Jaime Escajeda Martínez (ocupante)
+f Hugo Alberto Gándara (Panc)
+g Gloria González Arango (Morenac)
+
+Municipio: San Luis Del Cordero (Pan, distrito 3)
+Le Voy A Leer Unos Nombres, Para Cada Uno, ¿Podría Decirme Si Le Es Muy Conocido, Algo Conocido, Poco O Nada Conocido?
+[1=Muy Conocido; 2=Algo; 3=Poco; 4=Nada Conocido; 5=Ns/Nc]
+a José Rosas Aispuro
+b Alejandro González Yáñez
+c José Ramón Enríquez Herrera
+d Maribel Aguilera Cháirez (dgo03p)
+e Maye Ruiz (ocupante compite)
+f Lupita Chavarría Corchado (Morenac)
+g El Profe Andrés Rubio (Pri)
+h Margarita Santillano Ortiz (Prd)
+
+Municipio: San Pedro Del Gallo (Pan, distrito 2)
+Le Voy A Leer Unos Nombres, Para Cada Uno, ¿Podría Decirme Si Le Es Muy Conocido, Algo Conocido, Poco O Nada Conocido?
+[1=Muy Conocido; 2=Algo; 3=Poco; 4=Nada Conocido; 5=Ns/Nc]
+a José Rosas Aispuro
+b Alejandro González Yáñez
+c José Ramón Enríquez Herrera
+d Omar Castañeda González (dgo02p)
+e Reginaldo Carrillo Valdez (ocupante compite)
+f Gilberto García Ruiz (Morenac)
+g María Candelaria Torres Rivas (Mc)
+
+Municipio: Santa Clara (Pri, distrito 3)
+Le Voy A Leer Unos Nombres, Para Cada Uno, ¿Podría Decirme Si Le Es Muy Conocido, Algo Conocido, Poco O Nada Conocido?
+[1=Muy Conocido; 2=Algo; 3=Poco; 4=Nada Conocido; 5=Ns/Nc]
+a José Rosas Aispuro
+b Alejandro González Yáñez
+c José Ramón Enríquez Herrera
+d Maribel Aguilera Cháirez (dgo03p)
+e Abigail Frayre Carranza (ocupante compite)
+f Sandra Martínez Aguilar (Morenac)
+
+Municipio: Santiago Papasquiaro (Pan, distrito 1)
+Le Voy A Leer Unos Nombres, Para Cada Uno, ¿Podría Decirme Si Le Es Muy Conocido, Algo Conocido, Poco O Nada Conocido?
+[1=Muy Conocido; 2=Algo; 3=Poco; 4=Nada Conocido; 5=Ns/Nc]
+a José Rosas Aispuro
+b Alejandro González Yáñez
+c José Ramón Enríquez Herrera
+d Javier Castrellón Garza (dgo01p)
+e César Rivas (ocupante compite)
+f El Chuco Gutiérrez Acosta (Morenac)
+
+Municipio: Súchil (Pan, distrito 1)
+Le Voy A Leer Unos Nombres, Para Cada Uno, ¿Podría Decirme Si Le Es Muy Conocido, Algo Conocido, Poco O Nada Conocido?
+[1=Muy Conocido; 2=Algo; 3=Poco; 4=Nada Conocido; 5=Ns/Nc]
+a José Rosas Aispuro
+b Alejandro González Yáñez
+c José Ramón Enríquez Herrera
+d Javier Castrellón Garza (dgo01p)
+e Abel Santoyo Salas (ocupante)
+f Yesica Natalia Mier Gómez (Panc)
+g Rodolfo Alonso Vidales (Morenac)
+
+Municipio: Tamazula (Pri, distrito 1)
+Le Voy A Leer Unos Nombres, Para Cada Uno, ¿Podría Decirme Si Le Es Muy Conocido, Algo Conocido, Poco O Nada Conocido?
+[1=Muy Conocido; 2=Algo; 3=Poco; 4=Nada Conocido; 5=Ns/Nc]
+a José Rosas Aispuro
+b Alejandro González Yáñez
+c José Ramón Enríquez Herrera
+d Javier Castrellón Garza (dgo01p)
+e José Angel Beltrán Félix (ocupante)
+f Leopoldo Napoleón Herrera Quiñonez (Panc)
+g Ricardo Ochoa Beltran (Morenac)
+
+Municipio: Tepehuanes (Pri, distrito 1)
+Le Voy A Leer Unos Nombres, Para Cada Uno, ¿Podría Decirme Si Le Es Muy Conocido, Algo Conocido, Poco O Nada Conocido?
+[1=Muy Conocido; 2=Algo; 3=Poco; 4=Nada Conocido; 5=Ns/Nc]
+a José Rosas Aispuro
+b Alejandro González Yáñez
+c José Ramón Enríquez Herrera
+d Javier Castrellón Garza (dgo01p)
+e Eder Raúl Gutiérrez Díaz (ocupante)
+f Maricela Corral López (Panc)
+g Dora Elia Enríquez Monarrez (Morenac)
+
+PENDIENTE: FALTA CANDIDATO DE MORENAC
+Municipio: Tlahualilo (Pri, distrito 2)
+Le Voy A Leer Unos Nombres, Para Cada Uno, ¿Podría Decirme Si Le Es Muy Conocido, Algo Conocido, Poco O Nada Conocido?
+[1=Muy Conocido; 2=Algo; 3=Poco; 4=Nada Conocido; 5=Ns/Nc]
+a José Rosas Aispuro
+b Alejandro González Yáñez
+c José Ramón Enríquez Herrera
+d Omar Castañeda González (dgo02p)
+e Alejandro Rodríguez Belmontes (ocupante)
+f Sergio Nevárez Jr (pan Hijo Ex2016)
+g Flor Yesenia Cardoza Farías (Pri)
+h Jesús Franco Huerta (Prd)
+
+Municipio: Topia (Pan, distrito 1)
+Le Voy A Leer Unos Nombres, Para Cada Uno, ¿Podría Decirme Si Le Es Muy Conocido, Algo Conocido, Poco O Nada Conocido?
+[1=Muy Conocido; 2=Algo; 3=Poco; 4=Nada Conocido; 5=Ns/Nc]
+a José Rosas Aispuro
+b Alejandro González Yáñez
+c José Ramón Enríquez Herrera
+d Javier Castrellón Garza (dgo01p)
+e Carmen Cesilia Nevárez García (ocupante)
+f Jaret Juárez Díaz (Panc)
+g Yuneli Robles Vizcarra (Morenac)
+
+Municipio: Vicente Guerrero (Pan, distrito 1)
+Le Voy A Leer Unos Nombres, Para Cada Uno, ¿Podría Decirme Si Le Es Muy Conocido, Algo Conocido, Poco O Nada Conocido?
+[1=Muy Conocido; 2=Algo; 3=Poco; 4=Nada Conocido; 5=Ns/Nc]
+a José Rosas Aispuro
+b Alejandro González Yáñez
+c José Ramón Enríquez Herrera
+d Javier Castrellón Garza (dgo01p)
+e Orlando Herrera Aviña (ocupante compite)
+f Juanita Acevedo Ibarra (Morenac)
+
+
+
+
+BATERIA GENERICA
+
+Le Voy A Leer Unos Nombres, Para Cada Uno, ¿Podría Decirme Si Le Es Muy Conocido, Algo Conocido, Poco O Nada Conocido?
+[1=Muy Conocido; 2=Algo; 3=Poco; 4=Nada Conocido; 5=Ns/Nc]
+a Sergio Cerda Moreno (ocupante compite)
+b Homero Martínez Cabrera (ocupante compite lerdo)
+c Maestra Tere González Alvarado (Morenac lerdo) 
+d Alejandro González Yáñez (senador compite)
+e Coco Palacio (ocupante compite)
+f Héctor Herrera Núñez (ocupante compite)
+g Adrián Chaparro Gándara (ocupante compite pueblo nuevo)
+h Nancy Flores Ornelas (Morenac pueblo nuevo)
+i Mary Amaya Parra (ocupante compite)
+j José Rosas Aispuro (góber)
+k Alejandro Gurrola 'AG' (ocupante compite)
+l Maye Ruiz (ocupante compite)
+m Reginaldo Carrillo Valdez (ocupante compite)
+n Abigail Frayre Carranza (ocupante compite)
+o José Ramón Enríquez Herrera (senador)
+p César Rivas (ocupante compite santiago papasquiaro)
+q El Chuco Gutiérrez Acosta (Morenac santiago papasquiaro)
+r Orlando Herrera Aviña (ocupante compite)
+
