@@ -457,13 +457,11 @@ e Orlando Herrera Aviña (ocupante compite)
 f Juanita Acevedo Ibarra (Morenac)
 
 
-
-
-BATERIA GENERICA
+BATERIA GENERICA ORIGINAL
 
 Le Voy A Leer Unos Nombres, Para Cada Uno, ¿Podría Decirme Si Le Es Muy Conocido, Algo Conocido, Poco O Nada Conocido?
 [1=Muy Conocido; 2=Algo; 3=Poco; 4=Nada Conocido; 5=Ns/Nc]
-a Sergio Cerda Moreno (ocupante compite)
+a Sergio Cerda Moreno (ocupante compite simon bolivar)
 b Homero Martínez Cabrera (ocupante compite lerdo)
 c Maestra Tere González Alvarado (Morenac lerdo) 
 d Alejandro González Yáñez (senador compite)
@@ -481,4 +479,25 @@ o José Ramón Enríquez Herrera (senador)
 p César Rivas (ocupante compite santiago papasquiaro)
 q El Chuco Gutiérrez Acosta (Morenac santiago papasquiaro)
 r Orlando Herrera Aviña (ocupante compite)
+
+
+BATERIA GENERICA ENMENDADA PARA QUITAR DGO, GOMEZ P. Y LERDO Y AJUSTAR NOMBRES DE MUNICS CON MAS RESPUESTAS
+
+Le Voy A Leer Unos Nombres, Para Cada Uno, ¿Podría Decirme Si Le Es Muy Conocido, Algo Conocido, Poco O Nada Conocido?
+[1=Muy Conocido; 2=Algo; 3=Poco; 4=Nada Conocido; 5=Ns/Nc]
+a Sergio Cerda Moreno (ocupante compite simon bolivar)
+b Alejandro González Yáñez (senador compite durango)
+c Coco Palacio (ocupante compite nazas)
+d Diana González Torres (Morenac nazas)
+e Héctor Herrera Núñez (ocupante compite otáez)
+f Adrián Chaparro Gándara (ocupante compite pueblo nuevo)  
+g Mary Amaya Parra (ocupante compite rodeo)
+h José Rosas Aispuro (góber)
+i Alejandro Gurrola 'AG' (ocupante compite san dimas)
+j Maye Ruiz (ocupante compite san luis del cordero)
+k Reginaldo Carrillo Valdez (ocupante compite san pedro del gallo)
+l Abigail Frayre Carranza (ocupante compite santa clara)
+m César Rivas (ocupante compite santiago papasquiaro)      
+n Orlando Herrera Aviña (ocupante compite vicente guerrero)
+
 
